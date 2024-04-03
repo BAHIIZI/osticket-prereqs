@@ -31,6 +31,8 @@ CGI and Common HTTP Features
 
 <h2>Installation Steps</h2>
 
+![image](https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/85288385-1e63-4b54-a673-1742e7d6acd1)
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
