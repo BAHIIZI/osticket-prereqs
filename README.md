@@ -31,13 +31,10 @@ CGI and Common HTTP Features
 
 <h2>Installation Steps</h2>
 
-![image](https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/85288385-1e63-4b54-a673-1742e7d6acd1)
+![image](https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/477df87e-ca3b-4012-a377-d1e8cbce32d6)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the virtual machine is up and running, to install/enable IIS in windows the CGI has to be checked and make sure all features in the common HTTP features are highlighted. To confirm if the IIS has installed, go to the web browser and type 127.0.0.1 and once it opens up like the image above then IIS has successfully been installed/enabled.
+
 </p>
 <br />
 
