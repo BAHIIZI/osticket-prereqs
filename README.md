@@ -41,7 +41,7 @@ Download and install PHP manager (helps in running osTicket by providing a conve
 
 ![image](https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/13acbfc9-5d03-430d-9156-5c420c0c74c7)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once OsTicket has been properly installed, it will show the image above. Then a cleanup has to be done by Deleting: C:\inetpub\wwwroot\osTicket\setup and Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
 
