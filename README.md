@@ -37,7 +37,7 @@ Once the virtual machine is up and running, to install/enable IIS in windows the
 
 ![image](https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/20eff0eb-256c-4395-ad41-c3b254d46343)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install PHP manager (helps in running osTicket by providing a convenient way to manage PHP settings and ensure that the server meets the necessary requirements for running osTicket smoothly), rewrite module (this plays a crucial role in running osTicket by providing URL manipulation capabilities, improving user experience, and facilitating better SEO practices), VC_redist (provides the necessary runtime components and dependencies required by osTicket and its associated libraries or extensions that were built with Visual C++..), MySQL (provides the robust data storage, management, scalability, performance, reliability, security, and integration capabilities required for a ticketing system to operate effectively) AND HeidiSQL (It provides a convenient and efficient way to interact with the database, perform database management tasks, and troubleshoot database-related issues, ultimately helping to ensure the smooth operation of osTicket).
 
 ![image](https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/13acbfc9-5d03-430d-9156-5c420c0c74c7)
 
