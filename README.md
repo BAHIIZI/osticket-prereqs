@@ -40,7 +40,7 @@ Create a resource group in Azure (named - RSG-1)
 
 <img width="721" alt="Screenshot 2024-04-25 at 3 24 38 PM" src="https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/fd030a7f-9246-4b38-9390-13bc5199db8e"> 
 
-Create a Virtual Machine (VM-osTicket) in Azure with Windows 10 and 2 VCPU.
+Create a Virtual Machine (VM-osTicket) in Azure with Windows 10 with 2 VCPU.
 
 <img width="766" alt="Screenshot 2024-04-25 at 3 30 35 PM" src="https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/be48264f-9fb9-4446-a503-d9efa8bc128e">
 
@@ -49,6 +49,7 @@ VM-osTicket and RSG-1 deployed and ready to go.
 <img width="489" alt="Screenshot 2024-04-25 at 3 36 43 PM" src="https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/81b102f4-d80f-46ab-8921-3ae0cd8d6b04">
 
 Install / Enable IIS in Windows WITH CGI and Common HTTP Features
+
 Open VM-osTicket in Microsoft Remote Desktop
 <img width="396" alt="Screenshot 2024-04-25 at 3 44 00 PM" src="https://github.com/BAHIIZI/osticket-prereqs/assets/164538571/09ce9560-00e3-4f16-892a-78d6e1961caf">
 
